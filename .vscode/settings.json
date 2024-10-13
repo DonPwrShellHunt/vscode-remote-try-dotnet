@@ -1,5 +1,25 @@
 {
     "cSpell.words": [
         "Devs"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#a0c7c3",
+        "activityBar.background": "#a0c7c3",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#a673ac",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#a0c7c3",
+        "statusBar.background": "#80b4af",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#60a19b",
+        "statusBarItem.remoteBackground": "#80b4af",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#80b4af",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#80b4af99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.remoteColor": "#80b4af"
 }
